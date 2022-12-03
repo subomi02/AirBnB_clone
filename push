@@ -1,0 +1,20 @@
+rm -r __pycache__
+rm -r models/__pycache__
+rm -r models/engine/__pycache__
+rm -r tests/__pycache__
+rm -r tests/test_models/__pycache__
+rm -r tests/test_models/test_engine/__pycache__
+
+chmod -R 777 *
+git add .
+git commit -m "[init] -  <YosriGFX> "
+git push
+clear
+echo "\
+/\.\.\.\.\.\.\.\.|././././././././\ \n\
+\.\t\t\t\t ./ \n\
+\.\t Done Mr. Yosri \t ./ \n\
+-.\t------------------\t .- \n\
+/.\tAll Right Reserved\t .\ \n\
+/.\t\t\t\t .\ \n\
+\/./././././././.|.\.\.\.\.\.\.\.\/ \n"
