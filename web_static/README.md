@@ -5,5 +5,5 @@
 
 ##
 **Proudly written by:**
-- **[Yosri Ghorbel](https://github.com/YosriGFX)**
+- **Adetunji Olasubomi**
 ##
