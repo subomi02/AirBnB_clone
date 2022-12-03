@@ -2,7 +2,7 @@
 # 0x00. AirBnB clone - The console
  >Foundations - Higher-level programming ― AirBnB clone
 ---
- >by Guillaume, CTO at Holberton school
+ >by Adetunji Olasubomi
  ---
 
 # AirBnB Clone Console:
